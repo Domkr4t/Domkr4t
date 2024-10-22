@@ -27,3 +27,9 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Domkr4t)](https://git.io/streak-stats)
 
 <br/>
+
+markdown
+### 📈 GitHub Activity Graph:
+![Anurag's GitHub activity graph](https://activity-graph.herokuapp.com/graph?user
+
+<br/>
