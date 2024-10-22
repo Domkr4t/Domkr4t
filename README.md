@@ -30,6 +30,6 @@
 
 markdown
 ### 📈 GitHub Activity Graph:
-![Anurag's GitHub activity graph](https://activity-graph.herokuapp.com/graph?Domkr4t)
+![Anurag's GitHub activity graph](https://activity-graph.herokuapp.com/graph?user=Domkr4t)
 
 <br/>
