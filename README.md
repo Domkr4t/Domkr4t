@@ -23,8 +23,8 @@
 
 
 <br/>
-<p align="center"> 
+<div align="center"> 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Domkr4t&theme=vue)
-</p>
+</div>
 
 <br/>
