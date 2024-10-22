@@ -3,7 +3,7 @@
 <img src=https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white alt=telegram style="margin-bottom: 5px;" />
 </a>
 
-I am engaged in full-stack development. I write backend using .NET Core, and frontend using React. I have worked in healthcare, video surveillance, and security sectors. I am constantly learning new technologies and run a YouTube channel with educational videos for beginner programmers.  
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -21,3 +21,9 @@ I am engaged in full-stack development. I write backend using .NET Core, and fro
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a> </p>
 
+
+<br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Domkr4t)](https://git.io/streak-stats)
+
+<br/>
