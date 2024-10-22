@@ -1,5 +1,6 @@
 <h1 align="center">Hello 👋, I'm Ilia</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=domkr4t" alt="domkr4t" /></a> </p>
+<a href="https://t.me/Kirill_Sachkov" target="_blank">
+<img src=https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white alt=telegram style="margin-bottom: 5px;" /
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
