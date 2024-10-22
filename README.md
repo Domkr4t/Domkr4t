@@ -25,11 +25,6 @@
 <br/>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Domkr4t)](https://git.io/streak-stats)
-
-<br/>
-
-markdown
-### 📈 GitHub Activity Graph:
-![Anurag's GitHub activity graph](https://activity-graph.herokuapp.com/graph?user=Domkr4t)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Domkr4t&theme=gotham)
 
 <br/>
