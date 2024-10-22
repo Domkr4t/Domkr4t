@@ -1,7 +1,11 @@
-<h1 align="center">Hello 👋, I'm Ilia Pankratov</h1>
+<h1 align="center">Привет 👋, I'm Ilia Pankratov</h1>
 <a href="https://t.me/domlek" target="_blank">
 <img src=https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white alt=telegram style="margin-bottom: 5px;" />
 </a>
+<p align="center">
+  Welcome to my GitHub!
+  I'm Ilia, a 22 years old .NET developer from  Moscow, Russia.
+</p>
 
 
 
@@ -23,7 +27,6 @@
 
 <br/>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Domkr4t&theme=vue)
-
+![My GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Domkr4t&theme=vue)
 
 <br/>
