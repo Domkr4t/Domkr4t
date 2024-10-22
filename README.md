@@ -1,6 +1,7 @@
 <h1 align="center">Hello 👋, I'm Ilia</h1>
 <a href="https://t.me/Kirill_Sachkov" target="_blank">
-<img src=https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white alt=telegram style="margin-bottom: 5px;" /
+<img src=https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white alt=telegram style="margin-bottom: 5px;" />
+</a>
 
 I am engaged in full-stack development. I write backend using .NET Core, and frontend using React. I have worked in healthcare, video surveillance, and security sectors. I am constantly learning new technologies and run a YouTube channel with educational videos for beginner programmers.  
 
