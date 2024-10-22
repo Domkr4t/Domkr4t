@@ -2,7 +2,7 @@
 <a href="https://t.me/domlek" target="_blank">
 <img src=https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white alt=telegram style="margin-bottom: 5px;" />
 </a>
-<p font size="16">
+<p style="font-size:7">
   Welcome to my GitHub!
   I'm Ilia, a 22 years old .NET developer from  Moscow, Russia.
 </p>
